@@ -1,0 +1,1 @@
+Quando eu clico nos números da urna eletrônica não aparece o alert
